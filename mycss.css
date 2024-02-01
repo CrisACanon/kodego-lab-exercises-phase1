@@ -36,3 +36,9 @@ body{
 .navbar a:hover, .navbar a.active {
     color: #ffdf6c;
 }
+
+#txtbox {
+    font-size: 18pt;
+    height: 100px;
+    width : 300px;
+}
